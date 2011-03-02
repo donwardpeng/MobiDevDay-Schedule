@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobiDevDay Schedule</string>
+	<string name="app_description">MobiDevDay Schedule by Don Ward</string>
+	<string name="main_no_items">No items</string>
+    <string-array name="presenters_array">
+        <item>Chris Adamson</item>
+        <item>Jeff Fansler</item>
+        <item>Dave Koziol</item>
+        <item>Virender Ajmani</item>
+        <item>Christopher Judd 1</item>
+        <item>Christopher Judd 2</item>
+        <item>Harimohan S. Bawa</item>
+        <item>Timothy Fisher</item>
+        <item>Bob Kuehne 1</item>
+        <item>Bob Kuehne 2</item>
+        <item>Jeff Blankenburg</item>
+        <item>Brian Genisio</item>
+        <item>Henry Balanon</item>
+        <item>Bill Steele 1</item>
+        <item>Bill Steele 2</item>
+        <item>Erik Daniel</item>
+        <item>Aydin Akcasu</item>
+        <item>Matthew D. Groves</item>
+        <item>Dan Hibbitts</item>
+        <item>Justin Dombecki</item>
+        <item>Jeff Kelley</item>
+        <item>Justin Dombecki and Devin Bingle</item>
+        <item>Open Coding iOS</item>
+        <item>Open Coding WP7</item>
+		<item>Open Coding Android</item>
+    </string-array>
+
+<string-array name="presenters_desc_array">
+<item><![CDATA[<strong>iOS Multi-Media APIs</strong><br><em>Chris Adamson</em></br><br>]]>As the basis of devices ranging from the iPod touch to the Apple TV, it\'s no surprise that iOS excels at media. The App Store is filled with media apps ranging from DJ turntables to \"hum to search\" music databases, from movie players to videoconferencing clients. So, how do you write apps like these? A look at the docs turn up more than a half dozen media frameworks, including Core Audio, Core Media, AV Foundation, Media Library, and more. It can be a little overwhelming. In this talk, we\'ll look at all the major media frameworks in iOS, understand their respective strengths and responsibilities, and help you understand which ones provide the functionality your app needs.<![CDATA[<br></br>]]><![CDATA[<strong><em>Chris Adamson</em></strong>]]> is a Mac and iPhone developer, editor, and author, based in Grand Rapids, Michigan. He is co-author of iPhone SDK Development (Pragmatic Programmers) and the upcoming Core Audio(Addison-Wesley Professional). He has several apps on the App Store, including the navigation app \"Road Tip\". He maintains a corporate identity as \"Subsequently &amp; Furthermore, Inc.\", and has thus far owned 11 1/2 Macs. He is also the author of QuickTime for Java: A Developer\'s Notebook and co-author of Swing Hacks. He was formerly the editor of java.net, and of ONJava.com . In a previous career, he was a Writer/Associate Producer at CNN Headline News. Chris has a BA and BS from Stanford University and an MA from Michigan State University.</item>
+<item><![CDATA[<strong>Intro to WP7</strong><br><em>Jeff Fansler</em></br><br>]]>Microsoft has been in the smart phone business for many years. Why then is there so much hype over Windows Phone 7? Is the new direction worth the hype it is receiving? Can Microsoft get back in the smart phone game? In this discussion we will talk about why Windows Phone 7 is an interesting software platform and how to get started writing apps.<![CDATA[<br></br>]]><![CDATA[<strong><em>Jeff Fansler</em></strong>]]> is the Founder and President of Fanzoo Technology, Inc. He is also a father, hockey player, home brewer, major geek, and enjoys long walks in his office with a picture of the beach on the monitor. Jeff\'s career has been focused on bringing the benefits of software and the internet to a wide range of business needs. Jeff started Fanzoo Technology, Inc. in 2006 and has helped several clients design, develop, and support products and custom line of business applications. Throughout his career he has learned a lot about the business of software but more than anything, he has learned that there is always more to learn and that everyone has something to contribute.</item>
+<item><![CDATA[<strong>Intro to iOS</strong><br><em>Dave Koziol</em></br><br>]]><![CDATA[<strong><em>Dave Koziol</em></strong>]]> is leader of the CocoaHeads Ann Arbor. Daves company is Arbormoon Software.</item>
+<item><![CDATA[<strong>App Inventor For Android</strong><br><em>Virender Ajmani</em></br><br>]]>Will talk about what App Inventor for Android is and steps to set it up on your computer. Will then move on to hands on demo in creating some basic apps which will demonstrate the power of App Inventor.<![CDATA[<br></br>]]><![CDATA[<strong><em>Virender Ajmani</em></strong>]]> is an employee of Compuware and an avid Google Maps developer in his own time. He is only one of a few Google Qualified Developers in the US. You can find the work of Virender on his site dedicated to his mapping applications at http://www.mibazaar.com. Virender\'s mapping mashups have been featured on the Google Maps home page, and featured in a number of news Arcticles across the country, including the Detroit Free Press, the Los Angeles Times, Information Week magazine, Sun\'s Java site and more. For a complete list of his media mentions see http://mibazaar.googlepages.com.</item>
+<item><![CDATA[<strong>Unit and Functional Testing for the iOS Platform</strong><br><em>Christopher Judd</em></br><br>]]>You know unit and functional testing is important, but as an iOS developer you are probably not doing it. There are a lot of reasons why not: poor documentation, difficult to get started or maybe you didn\'t even know it was possible. This presentation won\'t bore you with why you should test. Instead it will focus on practical tips and frameworks for getting you started in building better more reliable applications for the iPhone, iPod Touch and/or iPad.<![CDATA[<br></br>]]><![CDATA[<strong><em>Christopher Judd</em></strong>]]> is the president and primary consultant for Judd Solutions, an international speaker, an open source evangelist, the Central Ohio Java Users Group (http://www.cojug.org) and Columbus iPhone Developer User Group leader, and the co-author of Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children\'s book \"Bearable Moments\". He has spent 13 years architecting and developing software for Fortune 500 companies in various industries, including insurance, retail, government, manufacturing, service, and transportation. His current focus is on consulting, mentoring, and training with Java, Java EE, Groovy, Grails, Cloud Computing and mobile platforms like iPhone, Android and Java ME.</item>
+<item><![CDATA[<strong>Unit and Functional Testing for the Android Platform</strong><br><em>Christopher Judd</em></br><br>]]>You know unit and functional testing is important, but as an Android developer you are probably not doing it. There are a lot of reasons why not: poor documentation, difficult to get started or maybe you didn\'t even know it was possible. This presentation won\'t bore you with why you should test. Instead it will focus on practical tips and frameworks for getting you started in building better more reliable applications for Android.<![CDATA[<br></br>]]><![CDATA[<strong><em>Christopher Judd</em></strong>]]> is the president and primary consultant for Judd Solutions, an international speaker, an open source evangelist, the Central Ohio Java Users Group (http://www.cojug.org) and Columbus iPhone Developer User Group leader, and the co-author of Beginning Groovy and Grails (Apress, 2008), Enterprise Java Development on a Budget (Apress, 2003) and Pro Eclipse JST (Apress, 2005) as well as the author of the children\'s book \"Bearable Moments\". He has spent 13 years architecting and developing software for Fortune 500 companies in various industries, including insurance, retail, government, manufacturing, service, and transportation. His current focus is on consulting, mentoring, and training with Java, Java EE, Groovy, Grails, Cloud Computing and mobile platforms like iPhone, Android and Java ME.</item>
+<item><![CDATA[<strong>Intro to Android 2.x</strong><br><em>Harimohan S. Bawa</em></br><br>]]>Android OS is based on a popular Linux Operating System and is currently developed and maintained by Open Handset Alliance. It allows developers to write application using Java programming language. As you all may know that Java is a very popular development language for various platforms and this makes application development for Android much simpler for Java developers. Android SDK is very feature rich but at same time very simple to use. There are around 50,000+ Android applications available at Android Market Place. Some of very popular Android devices are: Google Nexus S, Nexus One, Motorola Droid, Droid 2, Droid X, HTC Incredible, Samsung Galaxy, T-Mobile G1/G2, T-Mobile MyTouch. Android based 7 tablet from Samsung, is a feature packed tablet device similar to iPad but with additional features. Android is already very popular and growing mobile platform and 2011 will bring flurry of new Android devices, both phones and tablets, along with new version of Android which will optimized for Tablets.<![CDATA[<br></br>]]>In this presentation, Hari Bawa will cover Introduction to Android 2.x, Features, SDK and Development, Emulator, and Demo Application.<![CDATA[<br></br>]]><![CDATA[<strong><em>Harimohan S. Bawa (Hari Bawa)</em></strong>]]> is a Manager Consultant, Enterprise Solutions Consulting and IBM and Open Source, with Sogeti USA LLC, Columbus OH unit. He has more than 17 years of IT (Software Development and Architecture) experience. Harimohan is a Sun Certified Enterprise Architect for JEE 5 and JEE 1.4 platforms. He enjoys architecture, designing and developing Java based Enterprise, Desktop (Swing) and Mobile applications. His additional interests include Unified Modeling Language (UML), Model Driven Architecture (MDA) and Service Oriented Architecture (SOA). He has worked in various roles as Project/Software/Application Architect, Technical and Team Lead, Developer, Business Analyst and Trainer. Hari can be reached at hsbawa@gmail.com and his LinkedIn Profile is: http://www.linkedin.com/in/hbawa</item>
+<item><![CDATA[<strong>The Mobile Web</strong><br><em>Timothy Fisher</em></br><br>]]>You\'ve surely heard the statistics saying how mobile will dominate all web access over the next few years. You\'ve heard a lot about native Apps for iPhone and Android, but did you know that recent surveys show most people would prefer mobile web apps over native apps? I am talking about HTML based web sites running in a mobile browser with the same look and feel as a native app. Facebook recently announced they will be focusing all future mobile efforts on HTML5 rather than native apps. In this session you will get an overview of tools, techniques, and best practices for developing Mobile Web Applications that use the latest standards and technologies including HTML5, CSS3, local storage, Geolocation, and more. Also learn how you can get your mobile web app into the iOS App Store, or the Android Marketplace.<![CDATA[<br></br>]]><![CDATA[<strong><em>Timothy Fisher</em></strong>]]> has been working professionally in the Java software development field since 1997. He has served in a variety of roles including developer, team leader, and chief architect. Tim is currently a consultant for the Compuware Corporation in Detroit and leader of the Michigan Google Technology User Group. Tim also enjoys writing about technology and has been a contributor to Java Developer\'s Journal and XML Journal. He is author of the Java Phrasebook and the Ruby on Rails Bible. Along with his technology interests, Tim is also passionate about education and the use of advanced Internet technologies for education. You can contact Tim and read his blog at: blog.timothyfisher.com.</item>
+<item><![CDATA[<strong>OpenGL on Mobile Devices - Part 1</strong><br><em>Bob Kuehne</em></br><br>]]>The session will provide an intro to 3D graphics capabilities on mobile devices. We will cover the need to know features of OpenGL ES 2.x, the standard for 3D graphics on iPhone, Android, webOS, and the upcoming standard for WebGL, bringing 3D to desktop browsers. Attendees will come away with an understanding of what is needed to develop 3D apps for OpenGL ES.<![CDATA[<br></br>]]><![CDATA[<strong><em>Bob Kuehne</em></strong>]]>, CEO, Blue Newt Software. Blue Newt exists to help customers solve their toughest graphics problems. Blue Newt provides contract development, design, training, and consulting. Blue Newt has assisted numerous clients achieve more realism, performance, and insight with their 3D graphics applications. Blue Newt was founded in 2003 to focus modern software development techniques, languages, and toolkits on improving 3D graphics applications.</item>
+<item><![CDATA[<strong>OpenGL on Mobile Devices - Part 2</strong><br><em>Bob Kuehne</em></br><br>]]>The session will provide an intro to 3D graphics capabilities on mobile devices. We will cover the need to know features of OpenGL ES 2.x, the standard for 3D graphics on iPhone, Android, webOS, and the upcoming standard for WebGL, bringing 3D to desktop browsers. Attendees will come away with an understanding of what is needed to develop 3D apps for OpenGL ES.<![CDATA[<br></br>]]><![CDATA[<strong><em>Bob Kuehne</em></strong>]]>, CEO, Blue Newt Software. Blue Newt exists to help customers solve their toughest graphics problems. Blue Newt provides contract development, design, training, and consulting. Blue Newt has assisted numerous clients achieve more realism, performance, and insight with their 3D graphics applications. Blue Newt was founded in 2003 to focus modern software development techniques, languages, and toolkits on improving 3D graphics applications.</item>
+<item>Jeff Blankenburg is an ultra-passionate web developer who works for Microsoft. As a Developer Evangelist, he has the unique responsibility to consult and advise software developers about the new tools, technologies, and practices available to them. Jeff\'s previous roles as a software developer allowed him to build industry-changing websites and marketing efforts for Victoria\'s Secret, Abercrombie &amp; Fitch, Ford Motor Company, Sony, and several major pharmaceutical companies. Through many major speaking engagements and an active, technically-focused blog, Jeff has established himself as a valuable resource to anyone writing software or looking for advice on their next software endeavor.</item>
+<item><![CDATA[<strong>Air on Android</strong><br><em>Brian Genisio</em></br><br>]]>You don\'t need to develop in Java with the Android SDK in order to develop Android applications! With Air for Android, developers can harness the power of Flex and Flash to develop native applications for Android devices. Share code between desktop, web and mobile apps! Use higher-level constructs available in the Flex framework for beautiful interactions in less time and money. You may even be able to share your code to develop iPhone apps. In this code-focused session, you will learn all about the development story for Air and Mobile Flex. There will be plenty of demos of both code and tooling.<![CDATA[<br></br>]]><![CDATA[<strong><em>Brian Genisio</em></strong>]]> is a passionate software consultant at SRT Solutions in Ann Arbor, MI and an active member of the Heartland community. For over 10 years, Brian has worked with many languages and technologies. Currently, he is focusing on C# and .Net with WPF and Silverlight while exploring dynamic concepts in his static world. He recently started working with Flex on Android. He also loves to talk about testing philosophies and methodologies. He can talk your ear off. Just humor him. In his spare time, he enjoys being a cooking nerd which includes traditional barbecue, baking bread, brewing beer and making as much as he can from scratch.</item>
+<item><![CDATA[<strong>iOS - Third Party Tools</strong><br><em>Henry Balanon</em></br><br>]]>There are a lot of third-party APIs on Github and Google Code that will help you a lot with your iOS development. Stop trying to reinvent the wheel. Leave the mundane stuff to other people so you can focus on making your apps remarkable. In this session, we\'ll be building an app that taps into Foursquare and in under an hour, we\'ll have a spanking new location-based iOS app.<![CDATA[<br></br>]]><![CDATA[<strong><em>Henry Balanon</em></strong>]]> is the Founder and Lead Developer at iPhone app company, Bickbot. He helps companies build their iPhone apps. He is also a writer at TheAppleBlog.com, part of the GigaOm Network. He has spoken at the 360iDev Conference, iCE Amsterdam Conference, TIE Conference, LA2M, and Michigan State University. Prior to Bickbot, Henry held software developer positions at Cynergy and Lockheed-Martin. Henry received a degree in Computer Science from Michigan State University. He currently lives in the metro Detroit area of Michigan.</item>
+<item><![CDATA[<strong>Testing WP7 Apps</strong><br><em>Bill Steele</em></br><br>]]>This session is NOT about writing applications for Windows Phone 7. Instead, this will focus on making sure that you\'re testing your apps appropriately. We will focus on writing tests based on our application requirements, and then creating an application that satisfies the criteria of those tests. If there isn\'t a test for it, then we don\'t build it. Come see how to get started with TDD, and how we apply that to this up and coming mobile platform.<![CDATA[<br></br>]]><![CDATA[<strong><em>Bill Steele </em></strong>]]> loves creating the applications that often pop right into his head. Unfortunately, it takes his fingers a little longer to type them in. Bill is MCSD certified and has logged more than 20 years as a software developer. Previously, Bill worked for a regional consulting firm where he developed applications that managed internal business operations in areas including IT service management, transportation logistics, and financial management. Bill was responsible for building integration applications between various ISV\'s products and the client\'s IT infrastructure. He also spent more than seven years at StrideRite Corporation, where he honed his development skills in Visual Basic, C++ and a range of IT roles. Bill has been collaborating with Microsoft since 1992, and continues to prize his Visual Basic 1.0 Beta Thunder Clock. He\'s given over 300 presentations to date, and is currently developing software for a flight computer in NASA\'s Small Aircraft Transportation System. One additional item, Bill is also a very active pilot. Want a good story? Ask Bill about his Hurricane Katrina efforts sometime. What\'s the toughest part of managing a 50-member team? \"Those developer types always think they know it all,\" Bill says with a wink.</item>
+<item><![CDATA[<strong>XNA Games on WP7</strong><br><em>Bill Steele</em></br><br>]]>In this session, Bill Steele, will walk through the Microsoft Visual Studio 2010 Express for Windows Phone developer experience by building games and applications for the upcoming Microsoft Windows Phone 7 devices. You\'ll learn the differences between \"games\" and \"applications\" as well as get a better understanding of how the Windows Phone 7 developer experience works.<![CDATA[<br></br>]]><![CDATA[<strong><em>Bill Steele </em></strong>]]> loves creating the applications that often pop right into his head. Unfortunately, it takes his fingers a little longer to type them in. Bill is MCSD certified and has logged more than 20 years as a software developer. Previously, Bill worked for a regional consulting firm where he developed applications that managed internal business operations in areas including IT service management, transportation logistics, and financial management. Bill was responsible for building integration applications between various ISV\'s products and the client\'s IT infrastructure. He also spent more than seven years at StrideRite Corporation, where he honed his development skills in Visual Basic, C++ and a range of IT roles. Bill has been collaborating with Microsoft since 1992, and continues to prize his Visual Basic 1.0 Beta Thunder Clock. He\'s given over 300 presentations to date, and is currently developing software for a flight computer in NASA\'s Small Aircraft Transportation System. One additional item, Bill is also a very active pilot. Want a good story? Ask Bill about his Hurricane Katrina efforts sometime. What\'s the toughest part of managing a 50-member team? \"Those developer types always think they know it all,\" Bill says with a wink.</item>
+<item><![CDATA[<strong>PhoneGap</strong><br><em>Erik Daniel</em></br><br>]]>Harness your web-development expertise in the mobile space using PhoneGap. Build your app once using HTML, Javascript and CSS, wrap it up in PhoneGap, and deploy it to multiple platforms - including iPhone, Android, Blackberry, Palm, Windows and Symbian devices.<![CDATA[<br></br>]]><![CDATA[<strong><em>Erik Daniel</em></strong>]]> turned to web development in 2003 when the repossession business started to get boring. A father, husband, nerd, and writer, Erik still gets excited about building elegant and useful web and mobile applications with Flex, HTML, CSS, and Javascript. Erik works as a Systems Designer for Compuware Corporation in Detroit, where they are kind enough to let him develop and maintain software for Volkswagen of America.</item>
+<item><![CDATA[<strong>Connect to Kinect</strong><br><em>Aydin Akcasu</em></br><br>]]><![CDATA[<strong><em>Aydin Akcasu</em></strong>]]> is the founder of A Vision, Inc (http:\\www.A-V-I.com). He has over 20 years of experience, and provides innovative solutions using technologies such as WPF, Sharepoint, Java, JavaScript, ASP, Visual Basic, VB.Net, C#.Net, ASP.Net, Flash, XML, XSL. He is a part time \'C#.Net\' instructor at Washtenaw Community College (www.wccnet.edu), and \'Advanced C#.Net\'. He has given many presentations and classes to local area groups, as well as a few in Bangalore, India, on topics such as: \'Help, I need to learn Javascript\', \'Cover you ASP\', \'VB- What is it good for?\', \'FLASH-in-the-Pants?\', \'C#, ASP.Net on a Budget\', \'Introduction to C#.Net\', \'AJAX - A What\', \'Google Maps API-Where\'s \'Waldo?\', \'Wii Will Wii Will Rock You! !! !!!\'. He is a frequent speaker at Day Of Dot Net (http:\\www.dayofdotnet.org) (\'Kids Programming Language\', \'Introduction to Object Oriented Programming Using C#\', \'Microsoft Virtual Earth, Now in 3D\').</item>
+<item><![CDATA[<strong>MonoDroid</strong><br><em>Matthew D. Groves</em></br><br>]]>MonoDroid, based on the open source Mono .NET implementation, is a managed code engine for Android devices. The Android operating system is almost ubiquitous, showing up on phones, the nook e-reader, and a nice collection of new slates. There are a whole host of apps that need to be written out there, and now we can write them in managed code. Bill has been a part of the MonoDroid invitation-only beta since it\'s inception. As such, he has been constructing Android apps in C# since August. You\'ll walk away knowing what can and can\'t be done, a few detailed insights, and how to get started.<![CDATA[<br></br>]]><![CDATA[<strong><em>Matthew D. Groves</em></strong>]]> is a guy who loves to code. It doesn\'t matter if it\'s \"enterprisey\" C# apps, cool jQuery stuff, contributing to OSS, or rolling up his sleeves to dig into some PHP. He has been coding professionally ever since he wrote a QuickBASIC point-of-sale app for his parent\'s pizza shop back in the 90s. He currently works from home on the Telligent Analytics product team, and loves spending time with his wife and 2 kids, watching the Cincinnati Reds, and getting involved in the developer community. He has a BS in Computer Science, an MBA, a PMP certification, and has experience in education and consulting. MonoDroid is a development stack for using C# and core .NET APIs to develop Android-based applications. Matt will be presenting MonoDroid at CodeMash with Bill Sempf.</item>
+<item><![CDATA[<strong>SQLite</strong><br><em>Dan Hibbitts</em></br><br>]]>From the SQLite.org web page: \"SQLite is a software library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine.\" It allows for structured data storage and is supported on almost every platform imaginable. We\'ll take a look at SQLite from an iPhone and Mac and Windows perspective, cross platform compatibility and even briefly tip-toe into CoreData (which can use SQLite). (and it even works on Windows!)<![CDATA[<br></br>]]><![CDATA[<strong><em>Dan Hibbitts</em></strong>]]> is the principal consultant at Target Your Hand which provides solutions for Smart Phones, Personal Digital Assistants, Web and Database Management systems. Dan has over 20 years of software development experience and has been involved with mobile technologies for over 10 years. </item>
+<item><![CDATA[<strong>Tour around Xcode</strong><br><em>Justin Dombecki</em></br><br>]]>A tour of Xcode\'s goodies of tools, including key menus within Xcode, how Xcode and Interface Builder are used together, setup and preference settings, and build and compile settings.</item>
+<item><![CDATA[<strong>iOS Development with Blocks</strong><br><em>Jeff Kelley</em></br><br>]]></item>
+<item><![CDATA[<strong>Xcode Instruments</strong><br><em>Justin Dombecki and Devin Bingle</em></br><br>]]>An Xcode Developer\'s guide to Apple\'s Instruments Tools. Instruments are Apple\'s tools used to help in advanced debugging, identify memory issues, track resource allocation and utilization, and be a good citizen.</item>
+<item>Open Coding iOS</item>
+<item>Open Coding WP7</item>
+<item>Open Coding Android</item>
+</string-array>
+
+<string-array name="presenters_titles">
+<item>iOS Multi-Media APIs</item>
+<item>Intro to WP7</item>
+<item>Intro to iOS</item>
+<item>App Inventor For Android</item>
+<item>Unit and Functional Testing for the iOS Platform</item>
+<item>Unit and Functional Testing for the Android Platform</item>
+<item>Intro to Android 2.x</item>
+<item>The Mobile Web</item>
+<item>OpenGL on Mobile Devices - Part 1</item>
+<item>OpenGL on Mobile Devices - Part 2</item>
+<item></item>
+<item>Air on Android</item>
+<item>iOS - Third Party Tools</item>
+<item>Testing WP7 Apps</item>
+<item>XNA Games on WP7</item>
+<item>PhoneGap</item>
+<item>Connect to Kinect</item>
+<item>MonoDroid</item>
+<item>SQLite</item>
+<item>Tour around Xcode</item>
+<item>iOS Development with Blocks</item>
+<item>Xcode Instruments</item>
+<item></item>
+<item></item>
+<item></item>
+</string-array>
+
+<string-array name="rooms_array">
+    <item>Arctic B</item>
+    <item>Room 15w-6111</item>
+    <item>Room 15w-7208</item>
+    <item>Room 15w-7120</item>
+    <item>Auditorium</item>
+    <item>Arctic A</item>
+</string-array>
+
+<string-array name="timeslots_array">
+    <item>Time Slot 1</item>
+    <item>Time Slot 2</item>
+    <item>Time Slot 3</item>
+    <item>Time Slot 4</item>
+    <item>Time Slot 5</item>
+</string-array>
+
+<string-array name="timeslots_times">
+    <item>9:45-10:45</item>
+    <item>11:00-12:00</item>
+    <item>1:30-2:30</item>
+    <item>2:45-3:45</item>
+    <item>4:00-5:00</item>
+</string-array>
+
+<string-array name="time_room_presenter_array">
+<item>Time Slot 1,Auditorium,Dave Koziol</item>
+<item>Time Slot 1,Room 15w-6111,Bob Kuehne 1</item>
+<item>Time Slot 1,Room 15w-7208,Harimohan S. Bawa</item>
+<item>Time Slot 1,Room 15w-7120,Jeff Fansler</item>
+<item>Time Slot 1,Arctic B,Timothy Fisher</item>
+<item>Time Slot 1,Arctic A,Chris Adamson</item>
+<item>Time Slot 2,Auditorium,Justin Dombecki</item>
+<item>Time Slot 2,Room 15w-6111,Bob Kuehne 2</item>
+<item>Time Slot 2,Room 15w-7208,Matthew D. Groves</item>
+<item>Time Slot 2,Room 15w-7120,Bill Steele 1</item>
+<item>Time Slot 2,Arctic B,Brian Genisio</item>
+<item>Time Slot 2,Arctic A,Christopher Judd 1</item>
+<item>Time Slot 3,Auditorium,Jeff Kelley</item>
+<item>Time Slot 3,Room 15w-6111,Erik Daniel</item>
+<item>Time Slot 3,Room 15w-7208,Christopher Judd 2</item>
+<item>Time Slot 3,Room 15w-7120,Virender Ajmani</item>
+<item>Time Slot 3,Arctic B,Chris Adamson</item>
+<item>Time Slot 3,Arctic A,Bill Steele 2</item>
+<item>Time Slot 4,Auditorium,Justin Dombecki and Devin Bingle</item>
+<item>Time Slot 4,Room 15w-6111,Dan Hibbitts</item>
+<item>Time Slot 4,Room 15w-7208,Brian Genisio</item>
+<item>Time Slot 4,Room 15w-7120,Jeff Fansler</item>
+<item>Time Slot 4,Arctic B,Harimohan S. Bawa</item>
+<item>Time Slot 4,Arctic A,Erik Daniel</item>
+<item>Time Slot 5,Auditorium,Henry Balanon</item>
+<item>Time Slot 5,Room 15w-6111,Open Coding iOS</item>
+<item>Time Slot 5,Room 15w-7208,Virender Ajmani</item>
+<item>Time Slot 5,Room 15w-7120,Dave Koziol</item>
+<item>Time Slot 5,Arctic B,Aydin Akcasu</item>
+<item>Time Slot 5,Arctic A,Timothy Fisher</item>
+</string-array>
+
+<string-array name="schedule_array">
+<item>8:00am-9:00am - Registration</item>
+<item>9:00am-9:30am - Introduction</item>
+<item>9:30am-9:45am - Break</item>
+<item>9:45am-10:45am - Time Slot 1 Sessions</item>
+<item>10:45am-11:00am - Break</item>
+<item>11:00am-12:00pm - Time Slot 2 Sessions</item>
+<item>12:00pm-12:15pm - Break</item>
+<item>12:15pm-1:15pm - Lunch</item>
+<item>1:15pm-1:30pm - Break</item>
+<item>1:30pm-2:30pm - Time Slot 3 Sessions</item>
+<item>2:30pm-2:45pm - Break</item>
+<item>2:45pm-3:45pm - Time Slot 4 Sessions</item>
+<item>3:45pm-4:00pm - Break</item>
+<item>4:00pm-5:00pm - Time Slot 5 Sessions</item>
+</string-array>
+
+</resources>
