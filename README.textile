@@ -1,0 +1,11 @@
+h1{color:black}. MobiDevDay Schedule
+
+h2. Description of Application
+
+p{color:black}. This is a Google Android Application for the MobiDevDay 2011 conference held at Compuware Corporation on February 19, 20011. 
+
+This application is an Eclipse Helio's project, using the Android Plug-in for Eclipse. It supports Android 1.6 and forward.
+
+h2. Description of MobiDevDay
+
+p{color:black}. The goal of MobiDevDay was to educate Detroit and SE Michigan software developers about building applications on mobile platforms. This conference had 250 developers in attendance at Compuware Corporation on February 19, 2011. For many this was an introduction to Mobile Application development.
